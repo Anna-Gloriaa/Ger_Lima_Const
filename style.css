@@ -1,0 +1,25 @@
+*{
+    margin:0;
+    padding:0;
+    border: 0;
+    text-decoration: none;
+}
+
+body {
+    background-color: rgba(230, 177, 3, 0.986);
+    color:rgb(43, 39, 2);
+    text-align: center;
+    font-size: 100%;
+}
+header {
+    background-color: rgba(177, 53, 8, 0.705);
+    text-align: center;
+    margin-top: 20px;
+    padding: 20px;
+    font-size: 180%;
+}
+h1 {
+    color:rgb(43, 39, 2);
+    text-align: center;
+    font-size: 200%;
+}
